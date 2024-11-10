@@ -1,6 +1,7 @@
 # I AM BY NO MEANS SKILLED
 - Little bit of python
-- Little bit of JS
+- Little bit of website stuff
+- Little bit of JS (I'm noticing a theme with interpreted languages)
 - Nanoscopic bit of Java
 - *Linux is a playground*
 <br>
