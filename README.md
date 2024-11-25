@@ -3,7 +3,7 @@
 - Little bit of website stuff
 - Little bit of JS (I'm noticing a theme with interpreted languages)
 - Nanoscopic bit of Java
-- *Linux is a playground*
+- *Linux is a playground*<br>
 Don't rely on me for my skill, but rather my persistence in doing something I want to do. 
 
 <!---
