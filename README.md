@@ -4,7 +4,9 @@
 - Little bit of JS (I'm noticing a theme with interpreted languages)
 - Nanoscopic bit of Java
 - *Linux is a playground*
-<br>
+```python
+
+```
 Don't rely on me for my skill, but rather my persistence in doing something I want to do. 
 
 <!---
