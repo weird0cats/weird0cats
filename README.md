@@ -1,5 +1,3 @@
-dabbled in a little bit of everything
-
-personal projects after personal projects
-
-yeah idk
+# ME
+:3
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weird0cats)](https://github.com/anuraghazra/github-readme-stats)
